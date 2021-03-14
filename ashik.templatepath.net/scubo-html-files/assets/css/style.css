@@ -2877,8 +2877,8 @@ a:focus {
 }
 
 .cta-four {
-	padding-top: 120px;
-	padding-bottom: 120px;
+	padding-top: 50px;
+	padding-bottom: 20px;
 }
 
 .cta-four__image {
@@ -5699,7 +5699,7 @@ a:focus {
 }
 
 .video-two .container {
-	padding-top: 120px;
+	padding-top: 20px;
 	padding-bottom: 120px;
 	position: relative;
 }
@@ -5967,8 +5967,8 @@ a:focus {
 
 
 .service-one {
-	padding-top: 120px;
-	padding-bottom: 90px;
+	padding-top: 0px;
+	padding-bottom: 0px;
 	position: relative;
 }
 
@@ -5991,8 +5991,8 @@ a:focus {
 	margin-bottom: 30px;
 	text-align: center;
 	position: relative;
-	padding-bottom: 60px;
-	padding-top: 60px;
+	padding-bottom: 30px;
+	padding-top: 30px;
 }
 
 
