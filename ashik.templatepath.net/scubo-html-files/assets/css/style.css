@@ -386,8 +386,8 @@ a:focus {
 	height: 50px;
 	background: none;
 	position: fixed;
-	bottom: 40px;
-	right: 35px;
+	bottom: 60px;
+	left: 30px;
 	z-index: 990;
 	text-align: center;
 	-webkit-transition: all .4s ease;
@@ -397,6 +397,8 @@ a:focus {
 
 @media (max-width: 480px) {
 	.scroll-to-top {
+		bottom: 60px;
+		left:10px;
 		width: 40px;
 		height: 40px;
 	}
@@ -421,8 +423,7 @@ a:focus {
 }
 
 .scroll-to-top:hover {
-	background: var(--thm-base);
-	border-color: var(--thm-base);
+	background: none;
 }
 
 .scroll-to-top:hover i {
@@ -435,7 +436,7 @@ a:focus {
 	height: 50px;
 	background: none;
 	position: fixed;
-	bottom: 40px;
+	bottom: 60px;
 	right: 40px;
 	z-index: 990;
 	text-align: center;
@@ -469,8 +470,7 @@ a:focus {
 }
 
 .scroll-to-top-phone:hover {
-	background: var(--thm-base);
-	border-color: var(--thm-base);
+	background: none;
 }
 
 .scroll-to-top-phone:hover i {
